@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ural_Sirius_Web_Project/static/css/main.baaef819.css",
+    "main.js": "/Ural_Sirius_Web_Project/static/js/main.ee520c3e.js",
+    "static/media/loading.gif": "/Ural_Sirius_Web_Project/static/media/loading.39c3fc51ef3fb8f37578.gif",
+    "index.html": "/Ural_Sirius_Web_Project/index.html",
+    "main.baaef819.css.map": "/Ural_Sirius_Web_Project/static/css/main.baaef819.css.map",
+    "main.ee520c3e.js.map": "/Ural_Sirius_Web_Project/static/js/main.ee520c3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baaef819.css",
+    "static/js/main.ee520c3e.js"
+  ]
+}
