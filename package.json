@@ -2,6 +2,7 @@
   "name": "telecom-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ParsifalSun.github.io/Ural_Sirius_Web_Project",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -17,10 +18,10 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -45,6 +46,5 @@
     "gh-pages": "^6.2.0",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.14"
-  },
-  "homepage": "https://ParsifalSun.github.io/Ural_Sirius_Web_Project/"
+  }
 }
